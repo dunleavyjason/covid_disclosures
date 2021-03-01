@@ -6,11 +6,17 @@
 
 ---
 ### Motivation
+In March 2020, the unfolding global coronavirus pandemic shut down the majority of the US economy. Business operations abruptly changed, leading to material business and accounting implications for firms. On June 23, 2020, the SEC released [CF Disclosure Guidance: Topic No. 9A](https://www.sec.gov/corpfin/covid-19-disclosure-considerations), highlighting the need to disclose material COVID-19 impacts.
 
+For this project, financial statements (quarterly and annual) from all S&P 500 companies were web scraped. Paragraphs containing references to COVID-19 were inputted into the model. Topic modeling and sentiment analysis were performed to identify and analyze trends.
 
 ---
 ### Process
-
+1. Obtain links to financial statements - [sec_urls.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/sec_urls.ipynb)
+2. Web scrape financial statments - [web_scrape.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/web_scrape.ipynb)
+3. Clean text - [clean_text.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/clean_text.ipynb)
+4. Topic model and sentiment analysis - [topic_modeling_sentiment.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/topic_modeling_sentiment.ipynb)
+5. Visualize data - [Tableau Dashboard](https://public.tableau.com/profile/jason.dunleavy#!/vizhome/covid_disclosures/COVID-19FinancialStatementDisclosures?publish=yes)
 
 ---
 
