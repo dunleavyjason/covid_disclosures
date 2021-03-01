@@ -13,7 +13,7 @@ For this project, financial statements (quarterly and annual) from all S&P 500 c
 ---
 ### Process
 1. Obtain links to financial statements - [sec_urls.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/sec_urls.ipynb)
-2. Web scrape financial statments - [web_scrape.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/web_scrape.ipynb)
+2. Web scrape financial statements - [web_scrape.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/web_scrape.ipynb)
 3. Clean text - [clean_text.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/clean_text.ipynb)
 4. Topic model and sentiment analysis - [topic_modeling_sentiment.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/topic_modeling_sentiment.ipynb)
 5. Visualize data - [Tableau Dashboard](https://public.tableau.com/profile/jason.dunleavy#!/vizhome/covid_disclosures/COVID-19FinancialStatementDisclosures?publish=yes)
