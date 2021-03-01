@@ -2,7 +2,7 @@
 
 ## COVID-19 Financial Statement Disclosures
 
-*Using Natural Language Processing, including Topic Modeling and Sentiment Analysis techniques, created [Tableau Dashboard](https://public.tableau.com/profile/jason.dunleavy#!/vizhome/covid_disclosures/COVID-19FinancialStatementDisclosures?publish=yes) of COVID-19 Financial Statement Disclosures to identify and analyze trends*
+*Using Natural Language Processing, including Topic Modeling and Sentiment Analysis techniques, created [Tableau Dashboard](https://public.tableau.com/profile/jason.dunleavy#!/vizhome/covid_disclosures/COVID-19FinancialStatementDisclosures?publish=yes) of COVID-19 Financial Statement Disclosures to identify and analyze trends.*
 
 ---
 ### Motivation
