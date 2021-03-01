@@ -11,6 +11,13 @@ In March 2020, the unfolding global coronavirus pandemic shut down the majority 
 For this project, financial statements (quarterly and annual) from all S&P 500 companies were web scraped. Paragraphs containing references to COVID-19 were inputted into the model. Topic modeling and sentiment analysis were performed to identify and analyze trends.
 
 ---
+### Models
+1. Non-negative matrix factorization (NMF)
+2. Latent Dirichlet allocation (LDA)
+3. t-distributed stochastic neighbor embedding (t-SNE)
+4. Valence Aware Dictionary and sEntiment Reasoner (VADER)
+
+---
 ### Process
 1. Obtain links to financial statements - [sec_urls.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/sec_urls.ipynb)
 2. Web scrape financial statements - [web_scrape.ipynb](https://github.com/dunleavyjason/covid_disclosures/blob/main/web_scrape.ipynb)
@@ -41,6 +48,7 @@ https://www.sec.gov/edgar/searchedgar/companysearch.html
 5. matplotlip
 6. seaborn
 7. scikit-learn
-8. [SEC API](https://sec-api.io/)
-9. Tableau Public
+8. VADER 
+9. [SEC API](https://sec-api.io/)
+10. Tableau Public
 
