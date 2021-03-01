@@ -6,7 +6,7 @@
 
 ---
 ### Motivation
-In March 2020, the unfolding global coronavirus pandemic shut down the majority of the US economy. Business operations abruptly changed, leading to material business and accounting implications for firms. On June 23, 2020, the SEC released [CF Disclosure Guidance: Topic No. 9A](https://www.sec.gov/corpfin/covid-19-disclosure-considerations), highlighting the need to disclose material COVID-19 impacts.
+In March 2020, the global coronavirus pandemic shut down the majority of the US economy. Business operations abruptly changed, leading to material business and accounting implications for firms. On June 23, 2020, the SEC released [CF Disclosure Guidance: Topic No. 9A](https://www.sec.gov/corpfin/covid-19-disclosure-considerations), highlighting the need to disclose material COVID-19 impacts.
 
 For this project, financial statements (quarterly and annual) from all S&P 500 companies were web scraped. Paragraphs containing references to COVID-19 were input into the model. Topic modeling and sentiment analysis were performed to identify and analyze trends.
 
